@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Rapid Aide</string>
+
+    <string name="image">image</string>
+    <string name="app">APP</string>
+    <string name="an_apple_na_day_keeps_ndoctor_away">An Apple\nA Day Keeps\nDoctor Away .</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="disease_checker">Disease Checker</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="sos_call">SOS Call</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_share">Share</string>
+    <string name="medi_consult_edoctor_com">medi_consult@edoctor.com</string>
+    <string name="enter_your_symptoms">Enter Your Symptoms !</string>
+    <string name="medi_consult">Medi Consult</string>
+    <string name="www_medi_consult_edoctor_org">www.hmritm@edoctor.org</string>
+    <string name="_24_7_consultuncy">24/7 Consultuncy</string>
+    <string name="_91_8980688666">+91 99******00</string>
+    <string name="rudra_barad_gmail_com">hmritm@gmail.com</string>
+    <string name="d_11_royal_care_boys_nhostel_opp_charusat_university_nchanga_388421">HMRITM, Hamid Pur</string>
+    <string name="for_more_information_click_here">For more Information, click HERE</string>
+    <string name="mr_rudra_barad_you_may_have">Mr. Rudra Barad you may have...</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="know_your_disease">KNOW YOUR DISEASE</string>
+    <string name="click_on_any_one_to_call_in_emergency_situation">Click on any one to call in emergency situtation</string>
+
+
+    <string-array name="symptom_list">
+        <item>SELECT SYMPTOM</item>
+        <item>Anxiety</item>
+        <item>Stomach Ache</item>
+        <item>Nausea</item>
+        <item>Vomiting</item>
+        <item>Fever</item>
+        <item>Sudden Weight Loss</item>
+        <item>Sweating</item>
+        <item>Muscle And Body Pain</item>
+        <item>Thirsty Than Usual</item>
+        <item>Headaches</item>
+        <item>Weakness/Fatigue</item>
+        <item>Abdominal Pain</item>
+        <item>Muscle Pain</item>
+        <item>Dry Cough</item>
+        <item>Diarrhoea/Constipation</item>
+        <item>Frequent Urination</item>
+        <item>Hunger</item>
+        <item>Blurred Vision</item>
+        <item>Skin Itching</item>
+        <item>Chest Pain</item>
+        <item>Shortness in Breath</item>
+        <item>Dizziness</item>
+        <item>Fast Heartbeat</item>
+        <item>Indigestion</item>
+        <item>Pressure Or Heaviness In Chest</item>
+
+    </string-array>
+
+    <string name="email_mobile">EMAIL</string>
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="agree_to_out_terms_amp_conditions"><![CDATA[Agree to Out Terms & Conditions]]></string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="login_via_phone_number">Login via phone number</string>
+    <string name="don_t_have_an_account">Don_t_have_an_account</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="verify">Verify</string>
+    <string name="enter_your_number_to_continue">Enter Your Number to Continue</string>
+    <string name="resend_otp">resend OTP</string>
+    <string name="one_time_password">One-Time Password</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="fire_emergency_n_situations">Fire emergency n situations</string>
+    <string name="police">Police</string>
+    <string name="fire_brigade">Fire Brigade</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="medical_emergency_n_situations">Medical Emergency \n Situations</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26171467152",
+    "project_id": "rapid-aide-351305",
+    "storage_bucket": "rapid-aide-351305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26171467152:android:0dbcbbb736ec9ec90c7f15",
+        "android_client_info": {
+          "package_name": "com.complete.nearbyhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26171467152-qbo4t0iffne9hcr29ufmrg0g2g436jr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4c0iJTrHDxct85oRBQO-39rjchFd_Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26171467152-qbo4t0iffne9hcr29ufmrg0g2g436jr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

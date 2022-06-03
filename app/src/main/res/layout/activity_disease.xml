@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DiseaseActivity"
+    android:background="@color/black">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="380dp"
+        android:layout_height="46dp"
+        android:elevation="10dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.016"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:layout_width="405dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingStart="10dp"
+            android:paddingTop="8dp"
+            android:text="@string/mr_rudra_barad_you_may_have"
+            android:textColor="@color/black"
+            android:textSize="19sp">
+
+        </TextView>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="382dp"
+        android:layout_height="626dp"
+        android:elevation="10dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardElevation="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.847"
+        tools:ignore="MissingConstraints">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layoutDirection="inherit">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    />
+
+                <TextView
+                    android:layout_width="343dp"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:fontFamily="sans-serif"
+                    android:visibility="gone"
+                    android:autoLink="web"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    />
+
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+
+                <ImageView
+                    android:contentDescription="@string/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"/>
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+                <ImageView
+                    android:contentDescription="@string/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"/>
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+
+                <ImageView
+                    android:contentDescription="@string/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"/>
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+
+                <ImageView
+                    android:contentDescription="@string/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"/>
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+
+                <ImageView
+                    android:contentDescription="@string/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"/>
+                <TextView
+                    android:layout_width="343dp"
+                    android:visibility="gone"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:autoLink="web"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="14dp"
+                    android:text="@string/for_more_information_click_here"
+                    android:textColor="@color/blue"
+                    android:textSize="20sp"
+                    app:drawableStartCompat="@drawable/ic_info" />
+
+
+            </LinearLayout>
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
